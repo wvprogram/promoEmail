@@ -1,1 +1,1 @@
-# promoEmail
+# Promotional HTML Email
